@@ -21,7 +21,7 @@ b=int(input())
 print("modulo is", result(a, b))
 ```
 ## Output
-<img width="662" height="311" alt="image" src="https://github.com/user-attachments/assets/27cff632-6d6c-4b9a-bad7-3984329c8ec6" />
+![image](https://github.com/user-attachments/assets/ed19a2d7-5b48-4422-b875-b1d203bde5be)
 
 ## Result
-The program to return two values modulo is successful.
+Thus,the Python program that defines a function which accepts two values and returns their modulo using the % operator is created successfully.
